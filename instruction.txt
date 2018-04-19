@@ -1,0 +1,3 @@
+1. to generate the layout.css, run from command line uses absolute path
+
+sass -w src/main/webapp/resources/sass/layout.scss src/main/webapp/resources/omega-layout/css/layout.css --sourcemap=none
